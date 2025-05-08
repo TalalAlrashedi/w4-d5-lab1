@@ -25,3 +25,10 @@ function changeColorfun(){
     let changeText = document.getElementById("intro")
     changeText.style.color = "blue"
 }
+
+function backColorfun(){
+    // let changeText = document.getElementById("intro")
+    // changeText.style.color = "blue"
+
+    document.body.style.backgroundColor = "green"
+}
