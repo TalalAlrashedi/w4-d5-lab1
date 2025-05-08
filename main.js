@@ -16,3 +16,7 @@ function changeTextFun() {
 function changeSizeMoreFun() {
   FontSize += 2 + "px";
 }
+
+function changeSizeLessoreFun () {
+    FontSize -= 2 + "px";
+}
