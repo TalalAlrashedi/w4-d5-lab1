@@ -22,5 +22,6 @@ function changeSizeLessoreFun () {
 }
 
 function changeColorfun(){
-    document.body.style = "blue"
+    let changeText = document.getElementById("intro")
+    changeText.style.color = "blue"
 }
