@@ -20,3 +20,7 @@ function changeSizeMoreFun() {
 function changeSizeLessoreFun () {
     FontSize -= 2 + "px";
 }
+
+function changeColorfun(){
+    document.body.style = "blue"
+}
